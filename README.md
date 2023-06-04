@@ -1,4 +1,5 @@
 # 💫 About Me:
+# I am Rashik Neupane!
 🔭 I’m currently working on Web Development Projects<br>🌱 I’m currently learning React JS, Next.js<br>💬 Ask me about UI/UX designs, Laravel
 
 
