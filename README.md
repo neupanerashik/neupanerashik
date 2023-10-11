@@ -70,7 +70,7 @@ I'm a passionate web developer with a flair for crafting elegant and functional 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 100%; padding:0px !important" />
 
 </td></tr></table>  
 
@@ -78,14 +78,4 @@ I'm a passionate web developer with a flair for crafting elegant and functional 
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
