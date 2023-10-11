@@ -68,9 +68,9 @@ I'm a passionate web developer with a flair for crafting elegant and functional 
 
 <img src="https://github-readme-stats.vercel.app/api?username=neupanerashik&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="padding:0px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 100%; padding:0px !important" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 100%, padding:0px" />
 
 </td></tr></table>  
 
