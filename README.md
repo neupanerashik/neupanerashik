@@ -70,7 +70,7 @@ I'm a passionate web developer with a flair for crafting elegant and functional 
 
 </td><td valign="top" width="50%" style="padding:0px">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 100%, padding:0px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 90%, padding:0px" />
 
 </td></tr></table>  
 
