@@ -59,23 +59,4 @@ I'm a passionate web developer with a flair for crafting elegant and functional 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="35" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="35" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neupanerashik&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%" style="padding:0px">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neupanerashik&hide_border=true&layout=compact" align="left" style="width: 90%, padding:0px" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>
+<br/>   
